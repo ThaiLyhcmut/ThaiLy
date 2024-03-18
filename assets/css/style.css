@@ -48,12 +48,18 @@ body {
 }
 .contact__items--item {
   text-decoration: none;
-  margin-right: 20px;
+  margin-right: 30px;
   width: 42px;
   height: 42px;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 30px;
+}
+.contact__items i {
+  width: 32px;
+  height: 32px;
+  font-size: 32px;
 }
 
 .section-1__title {
